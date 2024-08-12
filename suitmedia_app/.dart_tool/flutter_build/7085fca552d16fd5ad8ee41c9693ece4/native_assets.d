@@ -1,0 +1,1 @@
+ D:\\suitmedia_test\\suitmedia_app\\.dart_tool\\flutter_build\\7085fca552d16fd5ad8ee41c9693ece4\\native_assets.yaml: 
